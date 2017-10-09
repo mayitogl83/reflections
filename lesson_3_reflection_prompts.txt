@@ -7,18 +7,21 @@ task with the end of build faster the project
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+ Because you can check on github which branch and commits are related with your task in the project 
+and pull them according to your interest at that time
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+ The diference is, when you forking, you make a copy inside the website(GitHub) that keeps a track from the original and you clone
+ when you make a copy from the website(GitHub) to your local machine, you use the first one to get a project to your account on GitHub
+ and the second one to copy that project to you computer and the branches are changes made by team working in the project, that allows 
+ you to keep track of previous versions of the project 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
-
+ 
+   
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
